@@ -1,6 +1,5 @@
-docs/.quarto/
+_site/
 .quarto/
-/.DS_Store
 .DS_Store
 
 /.quarto/
