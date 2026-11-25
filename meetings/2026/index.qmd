@@ -1,0 +1,136 @@
+---
+title: "APS Northwest 2026"
+subtitle: "June 4–6, 2026 · Oregon Institute of Technology · Klamath Falls, Oregon"
+---
+
+[Archive home](../../index.qmd#past-and-current-meetings)
+
+The 26th annual meeting of the APS Northwest Section was hosted by the [Oregon Institute of Technology](https://www.oit.edu) in Klamath Falls, Oregon. This page is the meeting website as it stood before the meeting, with registration, abstract submission, and travel grant links removed.
+
+- [Program guide](program-guide.qmd)
+- [Schedule and abstracts in the APS meeting archive](https://meetings-archive.aps.org/nws/2026/)
+
+## Date and Location
+
+The meeting was held **June 4–6, 2026** at the Oregon Institute of Technology in Klamath Falls, Oregon.
+
+[Oregon Institute of Technology](https://www.oit.edu)
+3201 Campus Dr
+Klamath Falls, Oregon 97601
+
+The banquet was held at the [Running Y Resort](https://runningy.com/) on Friday, June 5.
+
+## Program
+
+### Schedule
+
+| Time                 | Activity                    | Location            |
+| :----                | :----                       | :----               |
+| **Thursday, June 4** |                             |                     |
+| 6:00 p.m.            | Welcome Reception           | The Falls Taphouse, Downtown Klamath Falls |
+| **Friday, June 5**   |                             |                     |
+| 8:00 a.m.            | Breakfast                   | OIT — College Union |
+| 9:00 a.m.            | Plenary Session             | OIT — College Union |
+| 10:30 a.m.           | Coffee Break                | OIT — College Union |
+| 11:00 a.m.           | Plenary Session             | OIT — College Union |
+| 12:30 p.m.           | Lunch and Poster Session    | OIT — College Union |
+| 2:00 p.m.            | Concurrent Sessions         | OIT — College Union |
+| 3:30 p.m.            | Coffee Break                | OIT — College Union |
+| 4:00 p.m.            | Concurrent Sessions         | OIT — College Union |
+| Evening              | Banquet and Keynote Address | Running Y Resort    |
+| **Saturday, June 6** |                             |                     |
+| 8:00 a.m.            | Breakfast                   | OIT — College Union |
+| 9:00 a.m.            | Plenary Session             | OIT — College Union |
+| 10:30 a.m.           | Coffee Break                | OIT — College Union |
+| 11:00 a.m.           | Plenary Session             | OIT — College Union |
+| 12:30 p.m.           | Lunch                       | OIT — College Union |
+| 2:00 p.m.            | Concurrent Sessions         | OIT — College Union |
+| 3:30 p.m.            | Coffee Break                | OIT — College Union |
+| 4:00 p.m.            | Concurrent Sessions         | OIT — College Union |
+
+### Invited Speakers
+
+**Banquet Keynote:** Matt Ginsberg (Google DeepMind) — artificial intelligence and physics
+
+| Speaker         | Affiliation                           | Topic                                        |
+| :----           | :----                                 | :----                                        |
+| Jackie Acres    | Whitman College                       | Biophysics                                   |
+| Joe Baio        | Oregon State University               | Biointerfaces                                |
+| Nelson Coates   | University of Portland                | Condensed matter / thermoelectrics           |
+| Ray Frey        | University of Oregon                  | Multimessenger astronomy (LIGO)              |
+| Alexander Hart  | BC Cancer                             | Radiation oncology physics                   |
+| Jennifer Heath  | Reed College                          | Probe microscopy of 2D materials             |
+| Emily Mace      | Pacific Northwest National Laboratory | Nuclear physics                              |
+| James Murray    | University of Oregon                  | Machine learning and neural network dynamics |
+| Daniel Oliver   | Oregon State University               | Gravitational waves (NANOGrav)               |
+| David Vartanyan | University of Idaho                   | Supernovae                                   |
+
+## Parking and Campus Map
+
+[A map of OIT's campus](https://www.oit.edu/sites/default/files/2025/documents/Oregon%20Tech%20Campus%20Map%20-%20Klamath%20Falls_0.pdf)
+
+## Getting Here
+
+### By Car
+
+Klamath Falls is located in Southern Oregon at the intersection of OR-140 and US-97.
+
+### By Plane
+
+The nearest airport is in Medford, Oregon (MFR).
+The airport is about 70 miles from Klamath Falls.
+
+Rental cars are available at the airport.
+
+There are also buses that run between Medford and downtown Klamath Falls each day. The bus stops at the Medford airport, the Running Y, and downtown Klamath Falls, and costs about $25 each way. You can [purchase tickets](https://www.oregon-point.com/tickets/southwest) through Greyhound, Amtrak, and other carriers, but it is all [the same route and carrier](https://www.oregon-point.com/routes/southwest).
+
+Other airports in the region include
+
+- Redmond, Oregon — RDM, about 120 miles (near Bend, Oregon)
+- Redding, California — RDD, about 120 miles
+- Reno/Tahoe, Nevada — RNO, about 250 miles
+- Portland, Oregon — PDX, about 290 miles
+- Sacramento, California — SMF, about 290 miles
+
+### By Train
+
+Amtrak's scenic [Coast Starlight](https://www.amtrak.com/routes/coast-starlight-train) train connects Los Angeles to Portland and Seattle, and passes through Klamath Falls twice a day (8 a.m. northbound, 10 p.m. southbound).
+
+## Lodging
+
+There are several hotels in Klamath Falls and the surrounding area. We made arrangements with two for the conference. The Best Western is downtown and the Running Y is a resort outside of town.
+
+[Best Western Olympic Inn](https://www.bestwestern.com/en_US/book/hotels-in-klamath-falls/best-western-plus-olympic-inn/propertyCode.38171.html)
+2627 S 6th Street
+Klamath Falls, OR  97603
+
+[Running Y](https://runningy.com/)
+5500 Running Y Road
+Klamath Falls, OR  97601
+
+## Student Support
+
+Travel support was available for students, with awards of up to $300 paid after the meeting to confirmed attendees.
+
+We recognized outstanding student presentations at the meeting:
+
+- **Best Student Poster** — first place and honorable mention
+- **Best Student Talk** — first place and honorable mention
+
+## Things to Do In and Around Klamath Falls
+
+Klamath Falls has a pleasant and walkable downtown with several breweries and coffee roasters. You can explore Western art and Native American artifacts at the Favell Museum. Opportunities for hiking, kayaking, and mountain biking abound in the surrounding area, with nearby Moore Park offering lakefront trails and Cascade views. (Expect pleasant June weather with highs in the 70s–80s°F and cool evenings.)
+
+You can also …
+
+- Play golf at the [Running Y](https://runningy.com/) — Oregon's only Arnold Palmer-designed signature golf course
+- Attend the [Oregon Shakespeare Festival](https://www.osfashland.org/) in Ashland, Oregon
+- Visit [Crater Lake National Park](https://www.nps.gov/crla)
+- Hike and spelunk at [Lava Beds National Monument](https://www.nps.gov/labe/)
+- Watch for birds along the [Klamath Basin Birding Trail](https://www.klamathbirdingtrails.com/), at the [Lower Klamath National Wildlife Refuge](https://www.fws.gov/refuge/lower-klamath), or at the [Upper Klamath National Wildlife Refuge](https://www.fws.gov/refuge/upper-klamath) (all part of the Pacific Flyway)
+
+## Organizing Committee
+
+**Meeting chair:** Jesse Kinder, Chair-Elect of the APS Northwest Section
+
+**Local organizing committee (Oregon Institute of Technology):** Jesse Kinder and Yuehai Yang, co-chairs; Robyn Wilde; David Johnston

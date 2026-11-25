@@ -1,0 +1,71 @@
+---
+title: "Northwest Section"
+subtitle: "American Physical Society"
+---
+
+The Northwest Section of the APS was officially founded in 1998 and now numbers over 1100 members and continues to grow. Its purpose is to facilitate the exchange of physics information and discussion among members living in the rather large area of the Pacific Northwest (primarily Alberta, British Columbia, Idaho, Montana, Oregon, Washington, and Wyoming & Alaska). The Section places emphasis on including students and physicists who work in education, research and in industry.
+
+## Executive Committee
+
+*As listed on the [APS Northwest Section site](https://engage.aps.org/nws/governance/executive-committee/committee-members), November 2026. Terms in parentheses.*
+
+**Chair:** Jesse M Kinder (06/26–06/27)  
+Oregon Institute of Technology
+
+**Chair-Elect:** Mark J Paetkau (06/26–06/27)  
+Thompson Rivers University
+
+**Vice Chair:** Javier Orlandi (06/26–06/27)  
+University of Calgary
+
+**Past Chair:** David Laman (06/26–06/27)  
+Heritage University
+
+**Secretary/Treasurer:** Glen Warren (06/25–06/28)  
+Pacific Northwest National Laboratory (PNNL)
+
+**Assigned Council Representative:** Kenneth R Podolak (01/23–12/26)  
+SUNY Plattsburgh
+
+**Member-at-Large:** Keshav Samrat Modi (06/24–06/28)  
+Council of Scientific and Industrial Research–Central Scientific Instruments Organisation (CSIR–CSIO)
+
+**Member-at-Large:** Sevio Stanton (06/24–06/28)  
+University of Colorado, Boulder
+
+**Member-at-Large:** Deborah Christine Good (06/25–06/29)  
+University of Montana
+
+## Past and Current Meetings
+
+Each meeting has a schedule and abstracts in the APS meeting archive. Where a local organizing committee published its own website, that site is linked in the last column. Blank cells mean we have not found a link yet. The current year's official page is on the [APS Northwest Section site](https://engage.aps.org/nws/meetings/annual), but it changes every year, so it is not listed per meeting.
+
+| Year | # | Location | APS archive | Meeting site |
+|------|---|----------|-------------|--------------|
+| 2027 | 27th | Oregon State University, Corvallis, OR |  | Details coming soon |
+| [2026](meetings/2026/index.qmd) | 26th | Oregon Institute of Technology, Klamath Falls, OR | [Schedule](https://meetings-archive.aps.org/nws/2026/) | [2026 page](meetings/2026/index.qmd) |
+| 2025 | 25th | University of Calgary, Calgary, AB | [Schedule](https://meetings-archive.aps.org/nws/2025/) |  |
+| 2024 | 24th | University of Washington Bothell, Bothell, WA | [Schedule](https://meetings-archive.aps.org/nws/2024/) |  |
+| 2023 | 23rd | College of Western Idaho, Nampa, ID | [Schedule](https://meetings-archive.aps.org/nws/2023/) |  |
+| 2022 | 22nd | Thompson Rivers University, Kamloops, BC (postponed from 2021) | [Schedule](https://meetings-archive.aps.org/nws/2022/) |  |
+| 2021 |  | Not held. The Kamloops, BC meeting was postponed to 2022 |  |  |
+| 2019 | 20th | Western Washington University, Bellingham, WA | [Schedule](https://meetings-archive.aps.org/nws/2019/) |  |
+| 2018 | 19th | Tacoma, WA | [Schedule](https://meetings-archive.aps.org/nws/2018/) |  |
+| 2017 | 18th | Pacific University, Forest Grove, OR | [Schedule](https://meetings-archive.aps.org/nws/2017/) |  |
+| 2016 | 17th | Penticton, BC | [Schedule](https://meetings-archive.aps.org/nws/2016/) |  |
+| 2015 | 16th | Pullman, WA | [Schedule](https://meetings-archive.aps.org/nws/2015/) |  |
+| 2014 | 15th | Seattle, WA | [Schedule](https://meetings-archive.aps.org/nws/2014/) |  |
+| 2012 | 14th | Vancouver, BC | [Schedule](https://meetings-archive.aps.org/nws/2012/) |  |
+| 2011 | 13th | Corvallis, OR | [Schedule](https://meetings-archive.aps.org/nws/2011/) |  |
+| 2010 | 12th | Walla Walla, WA | [Schedule](https://meetings-archive.aps.org/nws/2010/) |  |
+| 2009 | 11th | Vancouver, BC | [Schedule](https://meetings-archive.aps.org/nws/2009/) |  |
+| 2008 | 10th | Lewis & Clark College, Portland, OR | [Schedule](https://meetings-archive.aps.org/nws/2008/) |  |
+| 2007 | 9th | Idaho State University, Pocatello, ID |  |  |
+| 2006 | 8th | University of Puget Sound, Tacoma, WA |  |  |
+| 2005 | 7th | Victoria, BC |  |  |
+| 2004 | 6th | Washington State University, Pullman, WA, and University of Idaho, Moscow, ID |  |  |
+| 2003 | 5th | Reed College, Portland, OR |  |  |
+| 2002 | 4th | McGill University, Montreal, QC |  |  |
+| 2001 | 3rd | University of Oregon, Eugene, OR |  |  |
+| 2000 | 2nd | University of Washington, Seattle, WA |  |  |
+| 1999 | 1st | University of British Columbia, Vancouver, BC |  |  |

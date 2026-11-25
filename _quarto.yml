@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "APS Northwest Section"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#past-and-current-meetings
+        text: Meetings
+    right:
+      - icon: box-arrow-up-right
+        href: https://engage.aps.org/nws
+        text: APS site
+  page-footer: "Archive maintained by the APS Northwest Section Executive Committee. The official section site is [engage.aps.org/nws](https://engage.aps.org/nws)."
+
+format:
+  html:
+    theme: cosmo
+    toc: false
