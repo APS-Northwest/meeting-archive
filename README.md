@@ -60,4 +60,4 @@ Keep what the meeting published about itself: dates, location, schedule, speaker
 
 ## Status
 
-Meetings with their own page here: 2026. APS archive links are in the table for 2008 to 2025. Local organizer sites for earlier years, and APS links for 2007 and before, still need to be found.
+Meetings with their own page here: 2026. The 2027 row links to the organizers' live site. APS archive links are in the table for 2008 to 2025. Local organizer sites for earlier years, and APS links for 2007 and before, still need to be found.

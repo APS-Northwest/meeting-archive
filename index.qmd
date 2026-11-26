@@ -42,7 +42,7 @@ Each meeting has a schedule and abstracts in the APS meeting archive. Where a lo
 
 | Year | # | Location | APS archive | Meeting site |
 |------|---|----------|-------------|--------------|
-| 2027 | 27th | Oregon State University, Corvallis, OR |  | Details coming soon |
+| 2027 | 27th | Oregon State University, Corvallis, OR | | [NWAPS 2027 (Oregon State)](https://nwaps.physics.oregonstate.edu/) |
 | [2026](meetings/2026/index.qmd) | 26th | Oregon Institute of Technology, Klamath Falls, OR | [Schedule](https://meetings-archive.aps.org/nws/2026/) | [2026 page](meetings/2026/index.qmd) |
 | 2025 | 25th | University of Calgary, Calgary, AB | [Schedule](https://meetings-archive.aps.org/nws/2025/) |  |
 | 2024 | 24th | University of Washington Bothell, Bothell, WA | [Schedule](https://meetings-archive.aps.org/nws/2024/) |  |
